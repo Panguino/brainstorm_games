@@ -36,6 +36,7 @@ Dump raw ideas here first. When something survives discussion, move it into the 
 - `[narrative]` `[meta]` **Theme — race to galactic center:** **2D sector map** (rim → core), [Avorion](https://www.avorion.net/)–style overworld feel; **solo / co-op / vs / mix**; may **encounter other players** on the way; pathing **fully open** vs **ABC forks** or hybrid.
 - `[narrative]` **Why the center:** **being chased** inward; or **finding the source** of the enemy (or both).
 - `[narrative]` `[meta]` **Replay fiction:** **time loops** (learn from last run); or **simulation / training** runs with a **“real”** attempt after reset; or simulation **hidden** from the player until reveal (trust / payoff TBD).
+- `[narrative]` `[tech]` **Out-of-bounds simulation spaces:** flying too far beyond the edge of a sector causes the **graphics and HUD to glitch** like the simulation cannot process that space; could also hide **secret sectors** outside the known simulation.
 
 ---
 
